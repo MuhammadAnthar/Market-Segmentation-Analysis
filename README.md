@@ -1,5 +1,4 @@
-# Customer Clustering & Marketing Strategy Simulation
-
+# Market Segmentation Analysis
 ## 📘 Studi Kasus
 Proyek ini merupakan studi kasus akademik dalam bidang **Data Mining** yang mensimulasikan proses **segmentasi pelanggan** untuk mendukung penyusunan strategi pemasaran berbasis data pada brand fiktif **MixITup**.
 
